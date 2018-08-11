@@ -1,0 +1,42 @@
+body{
+  background-image: url("../images/ts2.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+p{
+color: white;
+  text-align: center;
+  font-size:300%;
+}
+h1{
+color: white;
+text-align: center;
+font-size:300%;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  
+}
