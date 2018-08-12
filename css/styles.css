@@ -1,11 +1,11 @@
 body{
-  background-image: url("../images/ts2.jpg");
+  background-image: url("../images/ts.jpg");
   background-repeat: no-repeat;
   height: 100vh;
 }
 p{
 color: white;
-  text-align: center;
+  text-align:center;
   font-size:300%;
 }
 h1{
@@ -29,14 +29,24 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 .button {
-    background-color: black;
-    border: none;
-    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-  
+
+}
+.navi ul{
+
+  background-color: black;
+  border-collapse: collapse;
+  width: 100%;
+  color:white;
+	text-decoration: none;
+	display: grid;
+	grid-gap: 20px;
+	padding: 0;
+	list-style: none;
+	grid-template-columns: 1fr 1fr 1fr;
 }
