@@ -1,5 +1,6 @@
-﻿PROJECT NAME: 
+PROJECT NAME: 
 TRIANGLE TRACKER
+
 PROJECT DESCRIPTION:
 Triangle traker notifies one the type of triangle one is working with on the basis of the lenth of the sides of a given triangle. 
 It gives the result of 
@@ -7,9 +8,11 @@ It gives the result of
 2.Isosceles Triangle
 3.Scalene Triangle
 4.Non triangles
+
 PROJECT FOUNDER: 
 The platform finder is George Mirie Ndichu,founded back
 2010 
+
 INSTRUCTIONS:
  create an account with your g-mail account and get a one month free subscription to both our news letters and web content.
 LINK TO SITE: 1.https://github.com/mufalme/prog
